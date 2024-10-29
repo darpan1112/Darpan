@@ -49,3 +49,6 @@ logarithmic functions, exponentiation, and roots, all through a graphical user i
 •	Clean up the code for readability and maintainability.
 •	Document the code with comments explaining key parts.
 •	Prepare a project report or presentation if necessary.
+![](output1.png)
+![](output2.png)
+
